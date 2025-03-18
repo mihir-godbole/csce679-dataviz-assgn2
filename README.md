@@ -13,7 +13,7 @@ A basic heatmap visualization showing monthly temperature patterns across years.
 
 ### Screenshots
 Heatmap:
-![Alt text](level_2.png)
+![Alt text](level_1.png)
 Max-min toggle:
 ![Alt text](toggle.png)
 
@@ -33,4 +33,4 @@ An advanced version incorporating daily temperature variations within each month
 - Focus on the last 10 years of data
 
 ### Screenshots
-![Alt text](level_1.png)
+![Alt text](level_2.png)
