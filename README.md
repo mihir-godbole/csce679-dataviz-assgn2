@@ -15,7 +15,7 @@ A basic heatmap visualization showing monthly temperature patterns across years.
 Heatmap:
 ![Alt text](level_2.png)
 Max-min toggle:
-![Alt text](level_2.png)
+![Alt text](toggle.png)
 
 
 
